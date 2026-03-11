@@ -1,0 +1,422 @@
+[
+    {
+        "": "0",
+        "description": "O\u2018zbekiston Respublikasi Prezidentining rasmiy veb-sayti",
+        "url": "www.president.uz"
+    },
+    {
+        "": "1",
+        "description": "O\u2018zbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi",
+        "url": "www.parliament.gov.uz"
+    },
+    {
+        "": "2",
+        "description": "O\u2018zbekiston Respublikasi Oliy Majlisining Senati",
+        "url": "www.senat.uz"
+    },
+    {
+        "": "3",
+        "description": "O\u2018zbekiston Respublikasining Hukumati",
+        "url": "www.gov.uz"
+    },
+    {
+        "": "4",
+        "description": "O\u2018zbekiston Respublikasining Konstitutsiyaviy sudi",
+        "url": "www.ksu.uz"
+    },
+    {
+        "": "5",
+        "description": "O\u2018zbekiston Respublikasi Oliy sudi",
+        "url": "www.supcourt.gov.uz"
+    },
+    {
+        "": "6",
+        "description": "O\u2018zbekiston Respublikasi Bosh prokuraturasi",
+        "url": "www.prokuratura.uz"
+    },
+    {
+        "": "7",
+        "description": "O\u2018zbekiston Respublikasi Markaziy saylov komissiyasi",
+        "url": "www.election.uz"
+    },
+    {
+        "": "8",
+        "description": "O\u2018zbekiston Respublikasi Markaziy banki",
+        "url": "www.cbu.uz"
+    },
+    {
+        "": "9",
+        "description": "O\u2018zbekiston Respublikasi Hisob palatasi",
+        "url": "www.ach.gov.uz"
+    },
+    {
+        "": "10",
+        "description": "O\u2018zbekiston Respublikasi Kambag\u2018allikni qisqartirish va bandlik vazirligi",
+        "url": "www.mehnat.uz"
+    },
+    {
+        "": "11",
+        "description": "O\u2018zbekiston Respublikasi Iqtisodiyot va moliya vazirligi",
+        "url": "www.mf.uz"
+    },
+    {
+        "": "12",
+        "description": "O\u2018zbekiston Respublikasi Oliy ta\u2019lim, fan va innovatsiyalar vazirligi",
+        "url": "www.edu.uz"
+    },
+    {
+        "": "13",
+        "description": "O\u2018zbekiston Respublikasi Sog\u2018liqni saqlash vazirligi",
+        "url": "www.ssv.uz"
+    },
+    {
+        "": "14",
+        "description": "O\u2018zbekiston Respublikasi Ichki ishlar vazirligi",
+        "url": "www.iiv.uz"
+    },
+    {
+        "": "15",
+        "description": "O\u2018zbekiston Respublikasi Mudofaa vazirligi",
+        "url": "www.mudofaa.uz"
+    },
+    {
+        "": "16",
+        "description": "O\u2018zbekiston Respublikasi Favqulodda vaziyatlar vazirligi",
+        "url": "www.fvv.uz"
+    },
+    {
+        "": "17",
+        "description": "O\u2018zbekiston Respublikasi Tashqi ishlar vazirligi",
+        "url": "www.mfa.uz"
+    },
+    {
+        "": "18",
+        "description": "O\u2018zbekiston Respublikasi Investitsiyalar, sanoat va savdo vazirligi",
+        "url": "www.miit.uz"
+    },
+    {
+        "": "19",
+        "description": "O\u2018zbekiston Respublikasi Raqamli texnologiyalar vazirligi",
+        "url": "www.mitc.uz"
+    },
+    {
+        "": "20",
+        "description": "O\u2018zbekiston Respublikasi Adliya vazirligi",
+        "url": "www.adliya.uz"
+    },
+    {
+        "": "21",
+        "description": "O\u2018zbekiston Respublikasi Madaniyat va turizm vazirligi",
+        "url": "www.madaniyat.uz"
+    },
+    {
+        "": "22",
+        "description": "O\u2018zbekiston Respublikasi Qurilish va uy-joy kommunal xo\u2018jaligi vazirligi",
+        "url": "www.mc.uz"
+    },
+    {
+        "": "23",
+        "description": "O\u2018zbekiston Respublikasi Yoshlar siyosati va sport vazirligi",
+        "url": "www.minsport.uz"
+    },
+    {
+        "": "24",
+        "description": "O\u2018zbekiston Respublikasi Maktabgacha va maktab ta\u2019lim vazirligi",
+        "url": "www.uzedu.uz"
+    },
+    {
+        "": "25",
+        "description": "O\u2018zbekiston Respublikasi Transport vazirligi",
+        "url": "www.mintrans.uz"
+    },
+    {
+        "": "26",
+        "description": "O\u2018zbekiston Respublikasi Suv xo\u2018jaligi vazirligi",
+        "url": "www.water.gov.uz"
+    },
+    {
+        "": "27",
+        "description": "O\u2018zbekiston Respublikasi Qishloq xo\u2018jaligi vazirligi",
+        "url": "www.agro.uz"
+    },
+    {
+        "": "28",
+        "description": "O\u2018zbekiston Respublikasi Energetika vazirligi",
+        "url": "www.minenergy.uz"
+    },
+    {
+        "": "29",
+        "description": "O\u2018zbekiston Respublikasi Tog\u2018-kon sanoati va geologiya vazirligi",
+        "url": "www.uzgeolcom.uz"
+    },
+    {
+        "": "30",
+        "description": "O\u2018zbekiston Respublikasi Tabiat resurslari vazirligi",
+        "url": "www.uznature.uz"
+    },
+    {
+        "": "31",
+        "description": "O\u2018zbekiston Respublikasi Davlat statistika qo\u2018mitasi",
+        "url": "www.stat.uz"
+    },
+    {
+        "": "32",
+        "description": "O\u2018zbekiston Respublikasi Davlat soliq qo\u2018mitasi",
+        "url": "www.soliq.uz"
+    },
+    {
+        "": "33",
+        "description": "O\u2018zbekiston Respublikasi Davlat bojxona qo\u2018mitasi",
+        "url": "www.customs.uz"
+    },
+    {
+        "": "34",
+        "description": "O\u2018zbekiston Respublikasi Ekologiya va atrof-muhitni muhofaza qilish davlat qo\u2018mitasi",
+        "url": "www.eco.gov.uz"
+    },
+    {
+        "": "35",
+        "description": "O\u2018zbekiston Respublikasi O\u2018rmon xo\u2018jaligi davlat qo\u2018mitasi",
+        "url": "www.urmon.uz"
+    },
+    {
+        "": "36",
+        "description": "O\u2018zbekiston Respublikasi Davlat geologiya va mineral resurslar qo\u2018mitasi",
+        "url": "www.uzgeolcom.uz"
+    },
+    {
+        "": "37",
+        "description": "O\u2018zbekiston Respublikasi Yer resurslari, geodeziya, kartografiya va davlat kadastri davlat qo\u2018mitasi",
+        "url": "www.ygk.uz"
+    },
+    {
+        "": "38",
+        "description": "O\u2018zbekiston Respublikasi Veterenariya va chorvachilikni rivojlantirish davlat qo\u2018mitasi",
+        "url": "www.vetgov.uz"
+    },
+    {
+        "": "39",
+        "description": "O\u2018zbekiston Respublikasi Avtomobil yo\u2018llari davlat qo\u2018mitasi",
+        "url": "www.uzavtoyul.uz"
+    },
+    {
+        "": "40",
+        "description": "O\u2018zbekiston Respublikasi Turizmni rivojlantirish davlat qo\u2018mitasi",
+        "url": "www.uzbektourism.uz"
+    },
+    {
+        "": "41",
+        "description": "O\u2018zbekiston Respublikasi Investitsiyalar bo\u2018yicha davlat qo\u2018mitasi",
+        "url": "www.invest.gov.uz"
+    },
+    {
+        "": "42",
+        "description": "O\u2018zbekiston Respublikasi Favqulodda vaziyatlar vazirligi huzuridagi Katta va alohida muhim suv xo\u2018jaligi ob\u2019ektlarining texnik holatini hamda bexatar ishlashini nazorat qilish davlat inspektsiyasi",
+        "url": "www.v-nadzor.gov.uz"
+    },
+    {
+        "": "43",
+        "description": "O\u2018zdavenergonazorat",
+        "url": "www.energonazorat.uz"
+    },
+    {
+        "": "44",
+        "description": "O\u2018zneftegazinspektsiya",
+        "url": "www.uzngi.uz"
+    },
+    {
+        "": "45",
+        "description": "O\u2018zbekiston Respublikasi Vazirlar Mahkamasi huzuridagi Ichimlik suvdan foydalanishni nazorat qilish davlat inspektsiyasi (Davsuvinspektsiya)",
+        "url": "www.davsuvinspeksiya.uz"
+    },
+    {
+        "": "46",
+        "description": "O\u2018zbekiston Respublikasi Vazirlar Mahkamasi huzuridagi Ta\u2019lim sifatini nazorat qilish davlat inspektsiyasi",
+        "url": "www.tdi.uz"
+    },
+    {
+        "": "47",
+        "description": "O\u2018zbekiston Respublikasi Vazirlar Mahkamasi huzuridagi O\u2018simliklar karantini davlat inspektsiyasi",
+        "url": "www.karantin.uz"
+    },
+    {
+        "": "48",
+        "description": "O\u2018zbekiston Respublikasi parvozlarning xavfsizligini nazorat qilish Davlat inspektsiyasi (Davavianazorat)",
+        "url": "www.uzcaa.uz"
+    },
+    {
+        "": "49",
+        "description": "O\u2018zbekiston Respublikasi Temir yo\u2018llarda yuk va yo\u2018lovchilar tashish xavfsizligini nazorat qilish davlat inspektsiyasi (O\u2018zdavtemiryo\u2018lnazorat)",
+        "url": "www.rwnadzor.uz"
+    },
+    {
+        "": "50",
+        "description": "O\u2018zbekiston Respublikasi Vazirlar Mahkamasi huzuridagi Yer qarini geologik o\u2018rganish, sanoatda, konchilikda va kommunal-maishiy sektorda ishlarning bexatar olib borilishini nazorat qilish davlat inspektsiyasi (Sanoatgeokontexnazorat)",
+        "url": "www.sgktn.uz"
+    },
+    {
+        "": "51",
+        "description": "O\u2018zbekiston standartlashtirish, metrologiya va sertifikatlashtirish agentligi",
+        "url": "www.standart.uz"
+    },
+    {
+        "": "52",
+        "description": "O\u2018zbekiston Respublikasi Vazirlar Mahkamasi huzuridagi \u00abO\u2018zarxiv\u00bb agentligi",
+        "url": "www.archive.uz"
+    },
+    {
+        "": "53",
+        "description": "\u00abO\u2018zbekkino\u00bb milliy agentligi",
+        "url": "www.uzbekkino.uz"
+    },
+    {
+        "": "54",
+        "description": "O\u2018zbekiston Respublikasi Vazirlar Mahkamasi huzurida Atom eneregetikasini rivojlantirish agentligi",
+        "url": "www.uzatom.uz"
+    },
+    {
+        "": "55",
+        "description": "O\u2018zbekiston Respublikasi Davlat aktivlarini boshqarish agentligi",
+        "url": "www.davaktiv.uz"
+    },
+    {
+        "": "56",
+        "description": "O\u2018zbekiston Respublikasi Adliya vazirligi huzuridagi Intellektual Mulk agentligi",
+        "url": "ima.uz"
+    },
+    {
+        "": "57",
+        "description": "O\u2018zbekiston Respublikasi Adliya vazirligi huzuridagi Davlat xizmatlari agentligi",
+        "url": "www.ima.uz"
+    },
+    {
+        "": "58",
+        "description": "O\u2018zbekiston Respublikasi Davlat aktivlarini boshqarish agentligi",
+        "url": "www.gkk.uz"
+    },
+    {
+        "": "59",
+        "description": "O\u2018zbekiston Respublikasi Vazirlar Mahkamasi huzuridagi Davlat zaxiralarini boshqarish qo\u2018mitasi",
+        "url": "www.udz.uz"
+    },
+    {
+        "": "60",
+        "description": "O\u2018zbekiston Respublikasi Vazirlar Mahkamasi huzuridagi Din ishlari bo\u2018yicha qo\u2018mita",
+        "url": "www.religions.uz"
+    },
+    {
+        "": "61",
+        "description": "O\u2018zbekiston Respublikasi Vazirlar Mahkamasi huzuridagi Millatlararo munosabatlar va xorijiy mamlakatlar bilan do\u2018stlik aloqalari qo\u2018mitasi",
+        "url": "www.interkomitet.uz"
+    },
+    {
+        "": "62",
+        "description": "Xotin-qizlar qo\u2018mitasi",
+        "url": "www.wcu.uz"
+    },
+    {
+        "": "63",
+        "description": "O\u2018zbekiston Respublikasi Favqulodda vaziyatlar vazirligi huzuridagi Gidrometeorologiya xizmati markazi",
+        "url": "www.meteo.uz"
+    },
+    {
+        "": "64",
+        "description": "O\u2018zbekiston Respublikasi Vazirlar Mahkamasi huzuridagi Narkotik moddalarni nazorat qilish milliy axborot-tahlil markazi",
+        "url": "www.ncdc.uz"
+    },
+    {
+        "": "65",
+        "description": "O\u2018zbekiston Respublikasi Vazirlar Mahkamasi huzuridagi \u00abSIFAT\u00bb O\u2018zbekiston paxta tolasini sertifikatlash markazi",
+        "url": "www.sifat.uz"
+    },
+    {
+        "": "66",
+        "description": "O\u2018zbekiston Respublikasi Vazirlar Mahkamasi huzuridagi Davlat test markazi",
+        "url": "www.dtm.uz"
+    },
+    {
+        "": "67",
+        "description": "O\u2018zbekiston Respublikasi Oliy va o\u2018rta maxsus ta\u2019lim vazirligining Kasb-hunar ta\u2019limi markazi",
+        "url": "www.markaz.uz"
+    },
+    {
+        "": "68",
+        "description": "O\u2018zbekiston Respublikasi Fanlar akademiyasi",
+        "url": "www.academy.uz"
+    },
+    {
+        "": "69",
+        "description": "O\u2018zbekiston Respublikasi Vazirlar Mahkamasi huzuridagi Oliy attestatsiya komissiyasi",
+        "url": "www.oak.uz"
+    },
+    {
+        "": "70",
+        "description": "Qoraqalpog\u2018iston Respublikasi Vazirlar Kengashi",
+        "url": "www.sovminrk.gov.uz"
+    },
+    {
+        "": "71",
+        "description": "Buxoro viloyati hokimligi",
+        "url": "www.buxoro.uz"
+    },
+    {
+        "": "72",
+        "description": "Qashqadaryo viloyati hokimligi",
+        "url": "www.qashadaryo.uz"
+    },
+    {
+        "": "73",
+        "description": "Namangan viloyat hokimligi",
+        "url": "www.namangan.uz"
+    },
+    {
+        "": "74",
+        "description": "Surxondaryo viloyati hokimligi",
+        "url": "www.surxondaryo.uz"
+    },
+    {
+        "": "75",
+        "description": "Farg\u2018ona viloyati hokimligi",
+        "url": "www.ferghana.uz"
+    },
+    {
+        "": "76",
+        "description": "Toshkent viloyati hokimligi",
+        "url": "www.toshvil.uz"
+    },
+    {
+        "": "77",
+        "description": "Andijon viloyati hokimligi",
+        "url": "www.andijan.uz"
+    },
+    {
+        "": "78",
+        "description": "Jizzax viloyati hokimligi",
+        "url": "www.jizzax.uz"
+    },
+    {
+        "": "79",
+        "description": "Navoiy viloyati hokimligi",
+        "url": "www.navoi.uz"
+    },
+    {
+        "": "80",
+        "description": "Samarqand viloyati hokimligi",
+        "url": "www.samarkand.uz"
+    },
+    {
+        "": "81",
+        "description": "Sirdaryo viloyati xokimligi",
+        "url": "www.sirdaryo.uz"
+    },
+    {
+        "": "82",
+        "description": "Xorazm viloyati hokimligi",
+        "url": "www.xorazm.uz"
+    },
+    {
+        "": "83",
+        "description": "Toshkent shahar hokimligi",
+        "url": "www.tashkent.uz"
+    }
+]
